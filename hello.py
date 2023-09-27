@@ -1,3 +1,5 @@
 print("Olá, tudo bem ?")
 
-print(2 + 3)
+x = "Tudo ótimo!"
+
+print(x)
