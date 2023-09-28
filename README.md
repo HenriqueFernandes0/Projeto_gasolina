@@ -1,8 +1,7 @@
 # da-ebac
 
-Descrição projeto de plotagem de um aquivo csv
+Descrição plotagem de um aquivo csv
 
-Apartir do aquivo gasolina.csv iremos transformar esses dados um grafico de linha 
-que compare a evolução do preço médio da gasolina ao decorrer dos 10 primeiros dias de julho/2021
-
+"A partir do arquivo 'gasolina.csv', criaremos um gráfico de linha para visualizar
+como o preço médio da gasolina evoluiu nos primeiros 10 dias de julho de 2021."
 
